@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366495454586",
+    "firebase_url": "https://bookstore-cb8ec.firebaseio.com",
+    "project_id": "bookstore-cb8ec",
+    "storage_bucket": "bookstore-cb8ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366495454586:android:f5f7b6af41180e41b072c3",
+        "android_client_info": {
+          "package_name": "com.akash.bookhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366495454586-f74dl0sbtkggggujhsa5ot28l6o2to9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Mp2wrqu448-EnWldYusZ76A5BQaebHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366495454586-f74dl0sbtkggggujhsa5ot28l6o2to9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
